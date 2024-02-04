@@ -19,3 +19,7 @@ Jika Anda ingin berkolaborasi atau sekadar berbincang, silakan temui saya di Wha
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/)
 [![Telegram](https://img.shields.io/badge/Telegram-Chats-blue?style=for-the-badge&logo=telegram)](https://wa.me/)
+
+# Kontribusi
+
+[![Kontribusi](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](CONTRIBUTING.md)
