@@ -1,6 +1,6 @@
 # Saya dari LEXIC TEAM 👋
+![Logo GitHub](https://telegra.ph/file/1f1003428f01776b566cd.jpg)
 
-![Profil Saya]("https://telegra.ph/file/1f1003428f01776b566cd.jpg")
 
 ## Tentang saya
 
