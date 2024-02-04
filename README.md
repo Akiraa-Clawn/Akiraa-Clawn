@@ -1,6 +1,6 @@
 # Saya dari LEXIC TEAM 👋
 
-![Profil Saya](link_gambar_profil)
+![Profil Saya]("https://telegra.ph/file/1f1003428f01776b566cd.jpg")
 
 ## Tentang saya
 
