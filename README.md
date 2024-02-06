@@ -1,4 +1,4 @@
-# Saya dari LEXIC TEAM 👋
+# HALO SAYA LEXIC-TEAM 👋
 ![Logo GitHub](https://telegra.ph/file/1f1003428f01776b566cd.jpg)
 
 
@@ -15,11 +15,13 @@ Beberapa projek yang telah saya kerjakan:
 
 ## Hubungi Saya
 
-Jika Anda ingin berkolaborasi atau sekadar berbincang, silakan temui saya di WhatsApp atau di telegram saya di bawah ini
+Jika Anda ingin berkolaborasi atau sekadar berbincang, silakan temui saya di WhatsApp 
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/)
-[![Telegram](https://img.shields.io/badge/Telegram-Chats-blue?style=for-the-badge&logo=telegram)](https://wa.me/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat-green?style=for-the-badge&logo=whatsapp)](https://wa.me/6283829450919)
 
-# Kontribusi
+# SPECIAL THANKS FOR
 
-[![Kontribusi](https://img.shields.io/badge/Contributions-Welcome-brightgreen?style=for-the-badge&logo=github)](CONTRIBUTING.md)
+[![Bang syaii](https://img.shields.io/badge/Bang%20Syaii-Contact-brightgreen?style=for-the-badge&logo=telegram)](https://t.me/bang_syaii)
+[![LEXIC TEAM](https://img.shields.io/badge/LEXIC%20TEAM-view-brightgreen?style=for-the-badge&logo=github)](https://github.com/LEXIC-TEAM)
+[![NEOXR](https://img.shields.io/badge/NEOXR-view-brightgreen?style=for-the-badge&logo=github)](https://github.com/neoxr)
+[![AYGEMUY](https://img.shields.io/badge/AyGemuy-view-brightgreen?style=for-the-badge&logo=github)](https://github.com/AyGemuy)
